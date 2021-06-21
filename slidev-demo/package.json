@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.20.5",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "slidev-demo",
+  "devDependencies": {
+    "@vicons/ionicons5": "^0.10.0",
+    "autoprefixer": "^10.2.6",
+    "naive-ui": "^2.12.2",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.2"
+  }
+}
